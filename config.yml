@@ -4,7 +4,7 @@ course:
   year: 2014
   github_url: 
   
-nav: 
+sidebar: 
   - aha
   - question
   - resources
