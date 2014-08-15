@@ -1,0 +1,16 @@
+course:
+  name: Go Learn To Code
+  quarter: Autumn
+  year: 2014
+  github_url: 
+  
+nav: 
+  - aha
+  - question
+  - resources
+  - about
+  - Community Board: 'myurl'
+  
+
+
+  
