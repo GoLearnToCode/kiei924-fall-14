@@ -5,11 +5,11 @@ course:
   github_url: 
   
 sidebar: 
-  - aha
-  - question
-  - resources
-  - about
-  - Community Board: 'myurl'
+  aha: Aha! Board
+  # question: Question Board
+  resources: Resources
+  about: Syllabus
+  slack: Community
   
 
 
