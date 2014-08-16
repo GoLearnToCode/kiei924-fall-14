@@ -1,5 +1,28 @@
-* [Introduction to User Stories](http://en.wikipedia.org/wiki/User_story)
-* [User Stories are not Requirements](http://www.scrumalliance.org/community/articles/2010/april/new-to-user-stories)
-* [What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)
-* Do one of the "Tutorials for Beginners" on [Code.org](http://code.org).  No sign-up is required.  There are several tutorials to choose from (Angry Birds, Holiday Card, LightBot, etc.)
-* Got an iPad?  Download the free [Cargo-Bot game](https://itunes.apple.com/us/app/cargo-bot/id519690804?ls=1&mt=8) and see if you can solve the first few levels.
+_NOTE: This week's homework won't be graded._
+
+# Due Before Friday
+
+**1. Setup Your Development Environment**
+
+* Get a free [GitHub.com](https://github.com) account
+* [Install and configure Sublime Text](http://jeffcohenonline.com/setting-up-sublime)
+* [Install Virtual Box and Vagrant]()
+
+# Due Before Next Tuesday
+
+Practice what we did in class.  You should be able to:
+
+1. Start up your virtual dev box (hint: `vagrant up` and `vagrant ssh` will be helpful)
+2. Change to the `hello` directory: `cd projects/hello`
+3. Start the web server (`rails server`).
+4. Browse to `http://localhost:3000` to see the Welcome Aboard page.
+
+and then satisfy the following user story:
+
+1. As a site visitor, I want to visit `http://localhost:3000/projects/list` to see a list of the four major NASA projects that took us to the moon (X-15, Mercury, Gemini, and Apollo).  Each project should have a bit of information to go with it.
+
+<a href="http://jeffcohenonline.com/moon.png"><img src="http://jeffcohenonline.com/moon.png" width="500" style="border: solid 3px #CCC; box-shadow: 3px 3px 3px #999" title="Click for full size"></a>
+
+**BONUS.** Display an image of the moon (hint: research the `img` tag).
+
+
