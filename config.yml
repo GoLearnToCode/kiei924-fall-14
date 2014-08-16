@@ -5,7 +5,7 @@ course:
   github_url: 
   
 sidebar: 
-  - aha
+  # - aha
   - question
   - resources
   - about
