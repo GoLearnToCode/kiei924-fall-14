@@ -4,16 +4,15 @@ question_board: false
 
 # Custom Sidebar Links to External Sites
 sidebar:
-  # Identifiers are mostly internal and not displayed
-  # But default label is titleized version of the identifier
+  
   # Default icon is fa-cloud
-  # URLs must be provided or the item won't show up
+  # Must provide a label and url
   - 
     label: "Community"
     url: "https://golearntocode.slack.com/"
     icon: fa-slack
   - 
-    nasa:
+
     label: "NASA"
     url: "www.nasa.gov"
 
