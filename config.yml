@@ -1,16 +1,19 @@
-course:
-  name: Go Learn To Code
-  quarter: Autumn
-  year: 2014
-  github_url: 
-  
-sidebar: 
-  aha: Aha! Board
-  # question: Question Board
-  resources: Resources
-  # about: Syllabus
-  slack: [Community, "https://golearntocode.slack.com/"]
-  
+# Enable Built-In Features
+aha_board: true
+question_board: false
 
+# Custom Sidebar Links to External Sites
+sidebar:
+	# Identifiers are mostly internal and not displayed
+    # But default label is titleized version of the identifier
+    # Default icon is fa-cloud
+    # URLs must be provided or the item won't show up
+	- slack: 
+    	label: "Community"
+        url: "https://golearntocode.slack.com/"
+        icon: fa-slack
+   	- nasa:
+    	label: "NASA"
+        url: "www.nasa.gov"
 
   
