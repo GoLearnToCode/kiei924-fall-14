@@ -9,11 +9,11 @@ sidebar:
 	# Default icon is fa-cloud
 	# URLs must be provided or the item won't show up
 	- slack: 
-    	label: "Community"
-        url: "https://golearntocode.slack.com/"
-        icon: fa-slack
-   	- nasa:
-    	label: "NASA"
-        url: "www.nasa.gov"
+    label: "Community"
+    url: "https://golearntocode.slack.com/"
+    icon: fa-slack
+  - nasa:
+    label: "NASA"
+    url: "www.nasa.gov"
 
   
