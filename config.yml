@@ -1,12 +1,14 @@
-# Enable Built-In Features
+# Enable/Disable Built-In Features
 aha_board: true
 question_board: false
 
-# Custom Sidebar Links to External Sites
+# Custom Sidebar Links to External Sites.
+# ----------------------------------------
+# Must be an array.  Start with a dash on its own line.
+# Then indent and provide label, url, and fa icon (optional)
+# The default icon is fa-cloud.
 sidebar:
   
-  # Default icon is fa-cloud
-  # Must provide a label and url
   - 
     label: "Community"
     url: "https://golearntocode.slack.com/"
