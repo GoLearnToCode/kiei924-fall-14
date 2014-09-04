@@ -22,14 +22,7 @@ import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330
 For more information, you can read the [Offical Instructions](https://sublime.wbond.net/installation).
 
 
-### Step 3: Make the UI a bit nicer
-
-1. press Cmd-Shift-P to open Package Manager
-1. Begin typing the word `install` to locate and select `Package Control: Install Package` and then press Enter
-1. start typing `soda` to select the `Theme - Soda` and press Enter
-1. Watch the bottom of the screen for installation progress.
-
-### Step 4 Custom Preferences
+### Step 3 Custom Preferences
 
 Here's how I personalize Sublime to avoid some otherwise annoying defaults.
 
@@ -49,7 +42,7 @@ Replace everything you see with the following text:
   "draw_indent_guides": false,
   "ensure_newline_at_eof_on_save": true,
   "font_face": "Monaco",
-  "font_size": 24.0,
+  "font_size": 12.0,
   "hot_exit": false,
   "ignored_packages":
     [
@@ -58,8 +51,6 @@ Replace everything you see with the following text:
   "remember_open_files": false,
   "save_on_focus_lost": true,
   "tab_size": 2,
-  "theme": "Soda Light.sublime-theme",
-  "soda_folder_icons": true,
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true
 }
