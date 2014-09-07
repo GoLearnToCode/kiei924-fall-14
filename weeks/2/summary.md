@@ -1,4 +1,12 @@
-# Week 2 Summary
+# Goals
 
-Something funny goes here.
+
+* Deploy our web page using GitHub Pages
+* Add images and embed video
+* Apply visual styling with CSS
+  * Colors
+  * Borders
+  * Margin
+  * Padding
+
 
