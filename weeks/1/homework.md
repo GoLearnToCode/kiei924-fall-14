@@ -14,9 +14,10 @@ Practice what we did in class.  You should be able to:
 
 There should be no styling yet.  It should appear to be one giant paragraph.
 
-4. Markup the page by indicating the meaning of each section of text.
+4. Markup the page by indicating the meaning for various parts of the text.
+5. The browser tab should display "About Me".
 
-You should be able to use these elements at least once:
+You should use these elements at least once:
 
 * h1
 * p
@@ -24,5 +25,9 @@ You should be able to use these elements at least once:
 * li
 * a
 * h2
+* body
+* html
+* head
+* title
 
 5. Sync your code into your GitHub.com account no later than Thursday at 9pm.
