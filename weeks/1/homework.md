@@ -2,7 +2,7 @@
 
 * Get a free [GitHub.com](https://github.com) account
 * Install the GitHub App for Mac or Windows
-* [Install and configure Sublime Text](/workbook/sublime)
+* [Install and configure Sublime Text](/kiei924-fall2014/workbook/sublime)
 
 # Due Next Thursday by 9PM 
 
