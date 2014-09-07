@@ -1,2 +1,13 @@
+# This config file controls which workbook pages are viewable.
+#
+# Put your workbook pages into /workbook, then enable them here.
+#
+# Syntax:
+# 
+# filename: title
+#
+# You don't need the .md suffix in the filename.
+
+
 html1: "Cheat Sheet: HTML Basics"
 sublime: "How To: Install Sublime Text"
