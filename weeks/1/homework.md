@@ -27,7 +27,7 @@ You should use these elements at least once:
 * h2
 * body
 * html
-* head
 * title
+* head
 
 5. Sync your code into your GitHub.com account no later than Thursday at 9pm.
