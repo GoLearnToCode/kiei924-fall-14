@@ -1,7 +1,6 @@
 # Goals
 
-* Train your eye for the Web
 * Get your Development Environment set up
-* Create our first web page
-* Focus on semantic markup, not presentation styling
-* Testing webhook... OMG IT WORKED
+* Understand Git from a high-level and be able to use the Github app to publish and share code with others
+* Understand the building blocks of the web and use them to create your first web pages
+* See how these building blocks are used to create everything on the web
