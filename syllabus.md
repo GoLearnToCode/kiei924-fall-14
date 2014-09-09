@@ -25,5 +25,5 @@ Students must build a project of their choosing throughout the quarter as their 
 
 ✦ Homework is worth 60% of your grade, based on 3 assignments worth 20% each.
 ✦ The Final Project is worth 30% of your grade. Students must deploy a live, functioning website to a public internet address as their final project.
-+ Class participation is worth 10% of your grade.
+✦ Class participation is worth 10% of your grade.
 
