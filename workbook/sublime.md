@@ -1,6 +1,10 @@
-# Your Coding Editor: Sublime Text
+# Your Development Environment
 
-### Step 1: Download and Install Sublime Text
+## Code Editor
+
+The code editor is a piece of software that is used to create and edit text files. It's like Microsoft Word, but for code files instead of word processing documents. In this class, we'll use Sublime Text.
+
+### Download and Install Sublime Text
 
 [Click here to get Sublime Text](http://www.sublimetext.com/3). I recommend the Sublime 3 Beta. Download the appropriate installer for your computer and run it.
 
@@ -8,76 +12,14 @@ It's free to try out, but after 30 days you might get nagged to pay for it (whic
 
 Also don't miss the "unofficial" but excellent [documentation](http://docs.sublimetext.info/en/latest/index.html).
 
-### Step 2 Install the Package Manager
+## Git and Github
 
-**Package Manager** is a third-party add-on that lets you, well, install more add-ons.
+Git is a technology that professional developers use to store their code and share it with others. Github is a company that provides a popular hosted Git service.
 
-1. In Sublime, select menu item `View > Show Console`. This should bring up the console area at the bottom of the window.
-2. In the bottom input bar of the console, copy and paste the entire text below, and then press the Enter key:
+### Download and Install the Github App
 
-> import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
+[For Mac](https://mac.github.com/) or [for Windows](https://windows.github.com/)
 
+### Create a Github account
 
-For more information, you can read the [Offical Instructions](https://sublime.wbond.net/installation).
-
-
-### Step 3 Custom Preferences
-
-Here's how I personalize Sublime to avoid some otherwise annoying defaults.
-
-**On a Mac**, click the menu item `Sublime Text > Preferences > Settings - User`.
-**On Windows**, click the menu item `Preferences | Settings - User`
-
-You'll see some text appear, probably just empty `[ ]` brackets.
-
-Replace everything you see with the following text:
-
-``` javascript
-{
-  "auto_complete_commit_on_tab": true,
-  "auto_complete_with_fields": true,
-  "caret_style": "smooth",
-  "create_window_at_startup": false,
-  "draw_indent_guides": false,
-  "ensure_newline_at_eof_on_save": true,
-  "font_face": "Monaco",
-  "font_size": 12.0,
-  "hot_exit": false,
-  "ignored_packages":
-    [
-    "Vintage"
-    ],
-  "remember_open_files": false,
-  "save_on_focus_lost": true,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true
-}
-```
-
-then select `File > Save` to save these settings.
-
-### Step 5: Make Coding Easier
-
-Follow the same package installation steps we used in Step 3 to install the following packages:
-
-1. SublimeERB
-1. ColorPicker
-
-then select `Preferences > Key Bindings - User` and append this text into the window:
-
-```javascript
-[
-  { "keys": ["ctrl+shift+."], "command": "erb" }
-]
-```
-then select `File > Save`.
-
-### Mac Only: Terminal Enhancement
-
-**Mac Only** We can add the `subl` Terminal command, so you will have the ability to launch Sublime from the command line. Open a Terminal session, then enter the following two commands:
-
-`sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /bin/subl`
-`echo "export EDITOR='subl -w'" >> ~/.bash_profile`
-
-Now quit Terminal and open it up again, and you should be all set.
+Sign up for a free Github account at [the Github website](https://github.com/). You'll be using your Github account for lots of things in class – including turning in your homework and tracking your attendance in class – so keep your account information at the ready!
