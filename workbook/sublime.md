@@ -1,4 +1,4 @@
-# Your Development Environment
+# First Day Setup: Your Development Environment
 
 ## Code Editor
 
@@ -23,3 +23,11 @@ Git is a technology that professional developers use to store their code and sha
 ### Create a Github account
 
 Sign up for a free Github account at [the Github website](https://github.com/). You'll be using your Github account for lots of things in class – including turning in your homework and tracking your attendance in class – so keep your account information at the ready!
+
+## Computer Setup
+
+### Create a folder to store your code
+
+On Mac, create a folder called *code* directly underneath your *home directory*. In the *Finder*, find your *home directory*, which should be accessible via the sidebar – it's the one with the "house" icon and is marked with the username you've used to log-in to your computer.
+
+On Windows, create a folder called *code* in the root of your C:\ drive.
