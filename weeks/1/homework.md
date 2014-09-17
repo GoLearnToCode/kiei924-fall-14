@@ -1,21 +1,16 @@
 **1. Setup Your Development Environment**
 
-* Get a free [GitHub.com](https://github.com) account
-* Install the GitHub App for Mac or Windows
-* [Install and configure Sublime Text](/kiei924-fall2014/workbook/sublime)
+In case you didn't before the first class, [follow the instructions to install all necessary development tools](/kiei924-fall2014/workbook/sublime).
 
-# Due Next Thursday by 9PM 
+# Due Next Thursday by 9PM
 
 Practice what we did in class.  You should be able to:
 
-1. Create a new text file named "me.html"
-2. Add the content as shown on [#]this page.
-3. View the page in your browser. 
-
-There should be no styling yet.  It should appear to be one giant paragraph.
-
-4. Markup the page by indicating the meaning for various parts of the text.
-5. The browser tab should display "About Me".
+1. Create a new text file named "index.html"
+2. Make this page your own. It could your personal profile page, blog, list of recipes, or any other idea you might have.
+3. View the page in your browser.
+4. The browser tab should display a meaningful title describing what the page is about (e.g. "About Me", "Brian's Recipes", etc.)
+5. Sync your code into your GitHub.com account. The repository should be named <your Github username>.github.io. For example, mine would be eng.github.io. This will automatically make your page available on the public Internet at that address (e.g. http://eng.github.io/).
 
 You should use these elements at least once:
 
@@ -30,4 +25,3 @@ You should use these elements at least once:
 * title
 * head
 
-5. Sync your code into your GitHub.com account no later than Thursday at 9pm.
