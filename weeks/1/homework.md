@@ -10,7 +10,7 @@ Practice what we did in class.  You should be able to:
 2. Make this page your own. It could your personal profile page, blog, list of recipes, or any other idea you might have.
 3. View the page in your browser.
 4. The browser tab should display a meaningful title describing what the page is about (e.g. "About Me", "Brian's Recipes", etc.)
-5. Sync your code into your GitHub.com account. The repository should be named *your Github username*.github.io. For example, mine would be eng.github.io. This will automatically make your page available on the public Internet at that address (e.g. http://eng.github.io/).
+5. Sync your code into your GitHub.com account. The repository should be named *(your Github username)*.github.io. For example, mine would be eng.github.io. This will automatically make your page available on the public Internet at that address (e.g. http://eng.github.io/).
 
 You should use these elements at least once:
 
