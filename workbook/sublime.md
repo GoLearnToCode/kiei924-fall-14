@@ -26,7 +26,7 @@ Sign up for a free Github account at [the Github website](https://github.com/). 
 
 Once installed, run the Github app. You'll be asked to enter the Github username and password you just created, along with your name and email address. Once you've done this, you should be at an empty "Dashboard view", and you're all set.
 
-## 3. Create a folder for your code
+## 3. Create a place to store your code and download the project for the first class
 
 We'll need a place to store all the code we'll be writing this quarter.
 
