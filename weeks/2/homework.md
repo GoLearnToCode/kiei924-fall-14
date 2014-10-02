@@ -1,4 +1,4 @@
-## Due next Thursday, Oct. 9, by 11:59PM
+# Due next Thursday, Oct. 9, by 11:59PM
 
 Create another page in your username.github.io project. Create links ("a" tags) on both your original page (index.html) and the new page so that you can go back back and forth between the two pages. For instance, you could have a "home page" and a "contact page", or a "resume" and a "blog".
 
