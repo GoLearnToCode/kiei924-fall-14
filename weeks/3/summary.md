@@ -4,13 +4,8 @@
   * Navigation
   * Headers and Footers
   * Sidebars
-  
-* Advanced Visual Styling
-  * Hover effects
-  * Web fonts
-  * Hex color codes
-
-* CSS Frameworks
-  * Normalize
-  * Bootstrap
-  
+* Understand screen resolutions across devices and platforms
+* Learn the role of and the need for CSS frameworks
+* Bootstrap
+  * Grid system
+  * Common elements
