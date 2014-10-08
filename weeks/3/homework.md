@@ -8,7 +8,7 @@ You should:
 - Utilize the Bootstrap grid system to create a logical separation in your design elements (e.g. header, content, sidebar, footer) on medium-sized (992px wide and up) devices and up
 - Ensure that on small sized devices (768px and up), you can still see content and a sidebar, and that content is not simply stacked
 - Create at least one link that looks like a button
-- Use at one other Bootstrap design component
+- Use at least one other Bootstrap design component
   - Nav
   - Navbar
   - Label
