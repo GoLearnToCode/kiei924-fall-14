@@ -21,4 +21,6 @@ Style your page using a separate CSS file. Use the following CSS rules at least 
 - height
 - float
 
+Commit and sync your changes to your Github account no later than 11:59pm on Thursday.
+
 
