@@ -15,3 +15,4 @@ You should:
   - Alert
   - Etc.
 
+Commit and sync your changes to your Github account no later than 11:59pm on Thursday.
