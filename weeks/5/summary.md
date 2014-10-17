@@ -1,5 +1,5 @@
 # Goals
 
-* Visitor Traffic with Google Analytics
-* jQuery Effects
+* Command-line-fu
+* Website analytics
 * What's Next
