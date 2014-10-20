@@ -1,5 +1,6 @@
 # Goals
 
 * Command-line-fu
-* Website analytics
+* Intro to Javascript
+* Integration of third-party scripts
 * What's Next
