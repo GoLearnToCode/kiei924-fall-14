@@ -8,5 +8,6 @@ cp - Copy
 rm - Remove
 open - Open file (Mac)
 start - Open file (Windows)
+        
 
 
