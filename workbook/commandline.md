@@ -6,6 +6,7 @@ ls - List (Show directory contents)
 mv - Move
 cp - Copy
 rm - Remove
-open - Open file
+open - Open file (Mac)
+start - Open file (Windows)
 
 
