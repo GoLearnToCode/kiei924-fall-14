@@ -27,3 +27,48 @@ Students must build a project of their choosing throughout the quarter as their 
 ✦ The Final Project is worth 30% of your grade. Students must deploy a live, functioning website to a public internet address as their final project.
 ✦ Class participation is worth 10% of your grade.
 
+# Course Outline
+
+### Week 1
+
+* Get your Development Environment set up
+* Understand Git from a high-level and be able to use the Github app to publish and share code with others
+* Understand the building blocks of the web and use them to create your first web pages
+* See how these building blocks are used to create everything on the web
+
+### Week 2
+
+* Grab public code using git clone
+* Represent structured information using markup (HTML)
+  * HTML5 page structure and elements
+  * Learn the difference between block and inline elements
+  * Add images and embed media
+* Apply visual styling with CSS
+  * Colors
+  * Borders
+  * Margin
+  * Padding
+
+### Week 3
+
+* Content Layout
+  * Navigation
+  * Headers and Footers
+  * Sidebars
+* Understand screen resolutions across devices and platforms
+* Learn the role of and the need for CSS resets and frameworks
+* Bootstrap
+  * Grid system
+  * Common elements
+  
+### Week 4
+
+* Understand the basics of HTTP
+* Connect pages and create apps with forms
+
+### Week 5
+
+* Command-line-fu
+* Intro to Javascript
+* Integration of third-party scripts
+* What's Next
