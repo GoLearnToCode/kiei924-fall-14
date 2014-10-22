@@ -11,9 +11,13 @@ rm - Remove
 open - Open file (Mac)
 start - Open file (Windows)
 
-### Create a command-line shortcut for Sublime Text (Mac only)
+### Create a command-line shortcut for Sublime Text (Mac)
 
 	 ln -s  "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+     
+### Create a command-line shortcut for Sublime Text (Windows)
+
+Copy c:\Program Files\Sublime Text 3\subl to c:\windows\system32\ directory
         
 
 
