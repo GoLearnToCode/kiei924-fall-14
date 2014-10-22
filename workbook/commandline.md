@@ -1,4 +1,6 @@
-### Command-line Cheat Sheet
+# Command-line Cheat Sheet
+
+### Commonly Used Commands
 
 pwd - Print Working Directory
 cd - Change Directory
