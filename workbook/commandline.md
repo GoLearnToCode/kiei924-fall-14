@@ -10,6 +10,8 @@ cp - Copy
 rm - Remove
 open - Open file (Mac)
 start - Open file (Windows)
+. - Current Directory
+.. - One-level up
 
 ### Create a command-line shortcut for Sublime Text (Mac)
 
